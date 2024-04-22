@@ -1,0 +1,41 @@
+
+Inserted WP Form 1562
+Inserted WP Form 1564
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/online-health-coach-08\/wp-content\/uploads\/sites\/721\/2020\/10\/logo-1.png","nav_menu_locations":{"primary":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":null,"elementor_cpt_support":null,"elementor_css_print_method":null,"elementor_default_generic_fonts":null,"elementor_disable_color_schemes":null,"elementor_disable_typography_schemes":null,"elementor_editor_break_lines":null,"elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":null,"elementor_scheme_color-picker]":null,"elementor_scheme_typography":null,"elementor_space_between_widgets":null,"elementor_stretched_section_container":null,"elementor_load_fa4_shim":null,"elementor_active_kit":null,"woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"edd_settings":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":{"color_primary":"#278575","color_secondary":"#278575","color_tertiary":"#051145","focus_mode_enabled":"yes","focus_mode_content_width":"1180px","login_mode_enabled":"yes","login_logo":213,"responsive_video_enabled":"yes"},"learndash_settings_courses_themes":{"active_theme":"ld30"},"astra-color-palettes":{"currentPalette":"palette_1","palettes":{"palette_1":["#278575","#20796a","#051145","#313753","#ecf0f2","#ffffff","#243673","#FBFCFF","#BFD1FF"],"palette_2":["#0274be","#3a3a3a","#3a3a3a","#4B4F58","#ffffff","#f9f9f9","#F2F5F7","#424242","#000000"],"palette_3":["#0274be","#3a3a3a","#3a3a3a","#4B4F58","#ffffff","#f9f9f9","#F2F5F7","#424242","#000000"]},"flag":true},"astra-typography-presets":""}
+Source - https://websitedemos.net/online-health-coach-08/wp-content/uploads/sites/721/2020/10/logo-1.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/online-health-coach-08/wp-content/uploads/sites/721/2020/10/logo-1.png
+Log - {"url":"https:\/\/websitedemos.net\/online-health-coach-08\/wp-content\/uploads\/sites\/721\/2020\/10\/logo-1.png","id":0}
+Inserted - Post 1566 - attachment - logo-1.png
+BATCH - SUCCESS Image {Imported} - http://localhost/mywebsite1/wp-content/uploads/2023/03/logo-1.png
+Inserted - Post 1566 - attachment - logo-1.png
+Imported - Widgets {"wp_inactive_widgets":["block-2","block-3","block-4","block-5","block-6","search-1","recent-posts-1","recent-comments-1","archives-1","categories-1","meta-1"],"sidebar-1":["search-2","recent-posts-2","recent-comments-2","archives-2","categories-2","meta-2"],"header-widget":[],"footer-widget-1":["media_image-1","text-2","text-5"],"footer-widget-2":["nav_menu-1"],"advanced-footer-widget-1":[],"advanced-footer-widget-2":[],"advanced-footer-widget-3":[],"advanced-footer-widget-4":[],"array_version":3,"footer-widget-3":["text-3"],"footer-widget-4":["text-4"]}
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'mywebsite1' (1)
+---- Processing Images from Widgets -----
+---- Processing Contact Form Mapping from Text Widgets -----
+---- Processing Contact Form Mapping from WP Forms Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "846"
+---- Processing WordPress Page - for Gutenberg ---- "845"
+---- Processing WordPress Page - for Gutenberg ---- "20"
+---- Processing WordPress Page - for Gutenberg ---- "18"
+---- Processing WordPress Page - for Gutenberg ---- "16"
+---- Processing WordPress Page - for Gutenberg ---- "14"
+---- Processing WordPress Page - for Gutenberg ---- "12"
+---- Processing WordPress Page - for Gutenberg ---- "10"
+---- Processing MISC ----
+Post ID: 1542
+Post ID: 1519
+Post ID: 1518
+Post ID: 1517
+Post ID: 26
+Post ID: 1523
+Post ID: 1526
+Post ID: 1525
+Post ID: 1527
+Post ID: 1524
+---- Processing Images Metadata ----
+---- Processing Images Metadata Completed ----
+---- Processing batch process for Customizer start ----
+---- Processing batch process for Customizer done ----
+Batch Process Complete!
